@@ -1,4 +1,4 @@
-#TP3 - Francisco López (39.327.419)
+#TP3 - Francisco López
 
 #1)Escribir un programa que solicite la edad del usuario y compruebe si es mayor de edad
 edad = int(input("Ingrese su edad: "))

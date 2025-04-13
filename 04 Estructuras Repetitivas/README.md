@@ -1,6 +1,5 @@
-Práctico 4: Estructuras repetitivas
-Objetivo:
-Implementar ciclos para resolver problemas que requieran repetición de
+TP4: Estructuras repetitivas (Francisco López)
+Objetivo: Implementar ciclos para resolver problemas que requieran repetición de
 acciones.
 Resultados de aprendizaje:
 1. Diseño y Desarrollo de Algoritmos Eficientes: El estudiante será capaz de diseñar y
